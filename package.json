@@ -1,0 +1,14 @@
+{
+  "name": "jquery-mask-library",
+  "version": "0.0.1",
+  "description": "a global jquery mask library that makes masking inputs simple",
+  "author": {
+    "name": "Toran Billups",
+    "email": "toranb@gmail.com"
+  },
+  "main": "lib/mask.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/toranb/jquery-mask-library.git"
+  }
+}
